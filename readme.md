@@ -37,4 +37,4 @@ This project was developed for the Computer Systems Architecture course at Polit
 
 ## Specifications
 
-Detailed project specifications are available in the [pdf file](specifications.pdf).
+Detailed project specifications are available in the [pdf file](Specifications.pdf).
